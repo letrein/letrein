@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello! Call me Letrein. I'm a biologist, with a master's degree in pharmacology, and an aspiring data scientist.
+
+I have a long-standing relationship with science. I worked in research laboratories for 7 years and learned a lot during that time. I worked with cell biology, was a histologist, conducted biochemical analyses, researched the toxicity of compounds in fish, learned about environmental impacts, and how we humans are responsible for what happens in the world. Then, I fell in love with neuroscience, studied drugs, and mental disorders. I specialized in drug addiction and developed a huge empathy for the marginalized; I learned a lot. Yeah, I guess I'm grateful for the life I've had.
+
+But now we're on a new page. I don't want to be a biologist anymore; I want to be a data scientist and return to research in a way. I'm excited about this new beginning, and I hope this GitHub will soon be filled with work. Thank you for reading this far!
+Welcome!
+
+-Letrein
 <!--
 **letrein/letrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
