@@ -1,13 +1,29 @@
-### Hi there 👋
+# Hi there! I'm Letícia (Letrein) 👋
 
-Hello! Call me Letrein. I'm a biologist, with a master's degree in pharmacology, and an aspiring data scientist.
+**Data Scientist | Python Developer | Computer Vision Specialist**
 
-I have a long-standing relationship with science. I worked in research laboratories for 7 years and learned a lot during that time. I worked with cell biology, was a histologist, conducted biochemical analyses, researched the toxicity of compounds in fish, learned about environmental impacts, and how we humans are responsible for what happens in the world. Then, I fell in love with neuroscience, studied drugs, and mental disorders. I specialized in drug addiction and developed a huge empathy for the marginalized; I learned a lot. Yeah, I guess I'm grateful for the life I've had.
+I am a Data Scientist and Software Developer based in Curitiba, Brazil, specializing in artificial intelligence, real-time video processing, and spatial data analytics. Recently specialized in Data Science and Applications at UTFPR, I build systems that bridge the gap between complex data and functional, user-centric applications.
 
-But now I'm on a new page. I don't want to be a biologist anymore; I want to be a data scientist and return to research in a way. I'm excited about this new beginning, and I hope this GitHub will soon be filled with work. Thank you for reading this far!
-Welcome!
+My background is wonderfully unconventional: before diving into tech, I spent 7 years as a biologist and researcher with a Master's degree in Pharmacology. Studying neuroscience and environmental impacts gave me a rigorous, analytical foundation. Today, I apply that same scientific method to build machine learning models, analyze complex datasets, and architect full-stack solutions.
 
+### 🚀 What I'm working on right now
+*   **SAVAR:** Developing an AI video processing web application combining a Flask backend, React frontend, and fine-tuned YOLOv8 models for real-time object detection and RTSP streaming.
+*   **Geospatial & Big Data Analysis:** Working with urban datasets (like analyzing municipal infrastructure and weather impacts using GeoPandas, Folium, and Seaborn) and processing large-scale data with Apache Spark.
+*   **Mobile Development:** Building cross-platform applications using Flutter and Firebase (such as *app_mummyplus*).
+
+### 🛠️ Tech Stack & Tools
+*   **Data Science & AI:** Python, PyTorch, OpenCV, Ultralytics YOLOv8, Pandas, GeoPandas, Apache Spark.
+*   **Backend & APIs:** Flask, FastAPI.
+*   **Frontend & Mobile:** React, TypeScript, Flutter.
+*   **Infrastructure & Tools:** Git, VS Code, Firebase, Linux VPS, Tailscale, FFmpeg.
+
+### 📊 Let's Connect!
+I am always open to discussing technology, computer vision, open-source projects, or exchanging ideas about transitioning from academia to tech. 
+
+📫 How to reach me: treinleticia@gmail.com
 -Letrein
+
+
 <!--
 **letrein/letrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
